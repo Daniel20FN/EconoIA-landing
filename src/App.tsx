@@ -358,7 +358,7 @@ function PrivacyPage() {
 }
 
 function App() {
-  if (window.location.pathname === '/privacidad') {
+  if (window.location.pathname === '/privacidad' || window.location.pathname === '/privacidad/') {
     return <PrivacyPage />
   }
 
