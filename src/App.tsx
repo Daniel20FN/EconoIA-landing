@@ -1,7 +1,7 @@
 import './App.css'
 
-const supportEmail = 'soporte@econoia.app'
-const privacyEmail = 'dnunez200508@gmail.com'
+const supportEmail = 'support@vh-cloud-com'
+const privacyEmail = 'support@vh-cloud-com'
 
 const features = [
   {
